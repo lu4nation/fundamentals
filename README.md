@@ -1,0 +1,2 @@
+# fundamentals
+Algorithm study project
